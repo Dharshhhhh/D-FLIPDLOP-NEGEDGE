@@ -42,7 +42,7 @@ Next state of D flip-flop is always equal to data input, D for every positive tr
 
 7.Check for Race Conditions: Ensure that there are no race conditions or undefined states in the design by analyzing the timing and sequence of input changes.
 ```
-Developed y: Dharshini R
+Developed by: Dharshini R
 Register number: 212224220023
 ```
 **PROGRAM**
